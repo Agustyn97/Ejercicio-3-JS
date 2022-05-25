@@ -1,0 +1,11 @@
+.pedido {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input, button{
+    width: 30%;
+}
+
